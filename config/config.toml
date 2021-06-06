@@ -5,3 +5,6 @@ theme = "cactus"
 enableEmoji = true
 paginate = 20
 ignoreFiles = ["\\.puml$"]
+
+pygmentsUseClasses = true
+pygmentsCodefences = true
