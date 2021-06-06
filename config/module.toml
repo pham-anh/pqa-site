@@ -4,3 +4,12 @@
   private = "*.*"
   proxy = "direct"
   replacements = ""
+
+  [[module.imports]]
+    disable = false
+    ignoreConfig = false
+    ignoreImports = false
+    path = "github.com/pham-anh/learn-lpic"
+  [[module.imports.mounts]]
+    source = "LPIC-1"
+    target = "content/posts/lpic-1"
