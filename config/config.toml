@@ -1,0 +1,7 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Pham Quynh Anh's Site"
+theme = "cactus"
+enableEmoji = true
+paginate = 20
+ignoreFiles = ["\\.puml$"]
