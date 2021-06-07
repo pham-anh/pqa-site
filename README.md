@@ -44,8 +44,7 @@ Upload static files to GCS
 
 ```
 gcloud auth login
-export GOOGLE_APPLICATION_CREDENTIALS="
-path/to/serviceAccountKeyFile.json"
+export GOOGLE_APPLICATION_CREDENTIALS="path/to/serviceAccountKeyFile.json"
 hugo deploy
 ```
 
