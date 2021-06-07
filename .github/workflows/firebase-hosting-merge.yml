@@ -12,6 +12,8 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - run: 'brew install hugo'
+      - run: 'git clone https://github.com/monkeyWzr/hugo-theme-cactus.git themes/cactus'
+      - run: 'hugo mod get -u'
       - run: 'hugo -D'
       - uses: FirebaseExtended/action-hosting-deploy@v0
         with:
