@@ -1,1 +1,6 @@
 .DS_Store
+themes/*
+public/
+
+# keep tracking the themes folder itself
+!themes/.gitkeep
