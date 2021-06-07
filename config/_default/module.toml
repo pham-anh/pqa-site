@@ -1,9 +1,8 @@
-[module]
-  noProxy = "none"
-  noVendor = ""
-  private = "*.*"
-  proxy = "direct"
-  replacements = ""
+  # noProxy = "none"
+  # noVendor = ""
+  # private = "*.*"
+  # proxy = "direct"
+  # replacements = ""
 
   [[module.imports]]
     disable = false

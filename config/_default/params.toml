@@ -1,0 +1,21 @@
+
+  description = "Hi, welcome to my site. Hope you can find something that is relevant."
+  mainSection = "posts"
+  showAllPostsOnHomePage = false
+  postsOnHomePage = 5
+  tagsOverview = true
+#   showProjectsList = false
+#   projectsUrl = "https://github.com/pham-anh"
+
+  
+  [[params.social]]
+    name = "github"
+    link = "https://github.com/pham-anh"
+
+  [[params.social]]
+    name = "email"
+    link = "pqa.dev@gmail.com"
+
+  [[params.social]]
+    name = "twitter"
+    link = "https://twitter.com/anhpham64"
