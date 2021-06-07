@@ -25,7 +25,7 @@ anchor = "smart"
 # See https://www.google.com/search?q=color+picker
 bgColor = "#ffffff"
 
-[imaging.exif]
+[exif]
  # Regexp matching the fields you want to Exclude from the (massive) set of Exif info
 # available. As we cache this info to disk, this is for performance and
 # disk space reasons more than anything.

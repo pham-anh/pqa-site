@@ -1,4 +1,4 @@
-  [markup.highlight]
+  [highlight]
     codeFences = true
     guessSyntax = false
     hl_Lines = ""
