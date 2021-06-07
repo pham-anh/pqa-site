@@ -1,4 +1,4 @@
-baseURL = "http://localhost/"
+baseURL = "https://inspired-micron-198514.web.app"
 languageCode = "en-us"
 title = "Pham Quynh Anh's Site"
 theme = "cactus"

@@ -1,6 +1,7 @@
 .DS_Store
 themes/*
 public/
+.firebase/
 
 # keep tracking the themes folder itself
 !themes/.gitkeep

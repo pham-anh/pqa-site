@@ -30,17 +30,15 @@ Run server
 hugo server -D
 ```
 
-Or generate static files
+## Upload static files to GCS
+
+Generate static files
 
 ```
 hugo -D
 ```
 
 - Static files are generated in `public` directory
-
-Upload static files to GCS
-
-- https://gohugo.io/hosting-and-deployment/hugo-deploy/
 
 ```
 gcloud auth login
@@ -49,3 +47,10 @@ hugo deploy
 ```
 
 From here, use Google Cloud load balancer with GCS as the backend to publish the site to the internet.
+
+See also: https://gohugo.io/hosting-and-deployment/hugo-deploy/
+
+
+## Host the site on Firebase
+
+https://gohugo.io/hosting-and-deployment/hosting-on-firebase/
