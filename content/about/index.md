@@ -8,9 +8,9 @@ draft: false
 
 Hi, my name is Pham Quynh Anh. You can call me アン or Ann. I come from [Vietnam](https://www.google.com/maps/place/Vi%E1%BB%87t+Nam/@15.6284667,96.8659379,5z/data=!3m1!4b1!4m5!3m4!1s0x31157a4d736a1e5f:0xb03bb0c9e2fe62be!8m2!3d14.51978!4d108.1933594?hl=vi-VN) and works as a developer at [株式会社エクストランス (X-TRANS, Inc.)](https://x-trans.jp/).
 
-My major at the university is Japanese language and I started my first job as an Japanese interpreter. My favorite subjects at secondary and high school are Math and English. And they all have been helping me a lot in switching my career to a very adventuring path call `Web developer` recently.
+My major at the university is Japanese language and I started my first job as an Japanese interpreter. My favorite subjects at secondary and high school are Math and English. And they all have been helping me a lot in switching my career to a very adventuring path call `Web developer`.
 
-Although the projects I am in is Web application, I work much on the backend part.
+Although the projects I am in are Web applications, I work much on the backend part.
 
 ## Programming language and environment
 
