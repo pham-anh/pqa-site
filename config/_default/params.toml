@@ -5,6 +5,7 @@ postsOnHomePage = 15
 tagsOverview = true
 #   showProjectsList = false
 #   projectsUrl = "https://github.com/pham-anh"
+css = ["syntax.css"]
 
   [[social]]
     name = "github"
