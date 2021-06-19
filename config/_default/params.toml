@@ -1,10 +1,11 @@
 description = "Hi, welcome to my site. Hope you can find something that is relevant."
 mainSection = "posts"
 showAllPostsOnHomePage = false
-postsOnHomePage = 5
+postsOnHomePage = 15
 tagsOverview = true
 #   showProjectsList = false
 #   projectsUrl = "https://github.com/pham-anh"
+css = ["syntax.css"]
 
   [[social]]
     name = "github"
