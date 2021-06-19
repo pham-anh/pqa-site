@@ -9,3 +9,6 @@
 [[imports.mounts]]
   source = "LPIC-1"
   target = "content/posts"
+[[imports.mounts]]
+  source = "gcp"
+  target = "content/posts"
