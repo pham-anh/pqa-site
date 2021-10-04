@@ -20,9 +20,11 @@ Although the projects I am in are Web applications, I work much on the backend p
 
 ## Certification
 
-- [Google Cloud Associate Cloud Engineer](https://www.credential.net/1b6fc6d0-b6ed-4a98-8681-b12108fa20a1?key=b6ac34bc5811bda132233f73a0b8ca24d707cb25704ee14c530635567420fe8b)
+- 2021/08 [Google Cloud Professional Cloud Architect](https://www.credential.net/91806b08-9110-4819-b983-233204c8b6a8?key=eaef703d36823c5393e08325b4d9a5a622bb44c9a6d9b4fe4ad01771314c9f04)
 
-- [OMG Certified UML Professional 2 Foundation Level Certification](https://www.omg.org/cgi-bin/certdetails.cgi?file=686748-uml-ocup2-foundation.jpg)
+- 2021/06 [OMG Certified UML Professional 2 Foundation Level Certification](https://www.omg.org/cgi-bin/certdetails.cgi?file=686748-uml-ocup2-foundation.jpg)
+
+- 2021/04 [Google Cloud Associate Cloud Engineer](https://www.credential.net/1b6fc6d0-b6ed-4a98-8681-b12108fa20a1?key=b6ac34bc5811bda132233f73a0b8ca24d707cb25704ee14c530635567420fe8b)
 
 
 
