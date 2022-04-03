@@ -1,8 +1,8 @@
 description = "Hi, welcome to my site. Hope you can find something that is relevant."
-mainSection = "posts"
+mainSection = "about"
 showAllPostsOnHomePage = false
-postsOnHomePage = 15
-tagsOverview = true
+# postsOnHomePage = 15
+# tagsOverview = true
 #   showProjectsList = false
 #   projectsUrl = "https://github.com/pham-anh"
 css = ["syntax.css"]
