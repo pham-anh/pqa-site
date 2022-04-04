@@ -1,0 +1,67 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Software Engineer
+# your company information
+company:
+  name: X-TRANS, Inc.
+  url: "https://x-trans.jp/"
+
+# your resume. this file path should be relative to you "static" directory
+# resume: "files/resume.pdf"
+
+# a summary about you
+summary: 'I am a passionate software engineer with x years of working experience. I built OSS tools for [Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as writing a theme, etc.'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Github
+  icon: "fab fa-github"
+  url: "https://github.com/pham-anh"
+
+- name: Email
+  icon: "fas fa-envelope"
+  url: "pqa.dev@gmail.com"
+
+- name: Twitter
+  icon: "fab fa-twitter"
+  url: "https://twitter.com/anhpham64"
+
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+softSkills:
+- name: Leadership
+  percentage: 85
+  color: blue
+- name: Team Work
+  percentage: 90
+  color: yellow
+
+
+# Show your badges
+# You can show your verifiable certificates from https://www.credly.com.
+# You can also show a circular bar indicating the level of expertise on a certain skill
+badges:
+- type: certification
+  name: Professional Cloud Developer
+  url: "https://www.credential.net/feaa91a8-95f6-44ac-aba4-2f0d13690e6b"
+  badge: "https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/44607142"
+
+- type: certification
+  name: Professional Cloud Architect
+  url: "https://www.credential.net/91806b08-9110-4819-b983-233204c8b6a8"
+  badge: "https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/37001649"
+
+- type: certification
+  name: OMG CERTIFIED UML PROFESSIONAL 2 FOUNDATION LEVEL CERTIFICATION
+  url: "https://www.omg.org/cgi-bin/certdetails.cgi?file=686748-uml-ocup2-foundation.jpg"
+  badge: "http://www.omg.org/images/exampub/686748-uml-ocup2-foundation.jpg"
