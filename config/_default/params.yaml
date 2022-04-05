@@ -2,28 +2,3 @@ enableBlogPost: false
 newsletter:
   enable: false
 gitRepo: https://github.com/pham-anh/pqa-site
-
-
-
-
-# description = "Hi, welcome to my site. Hope you can find something that is relevant."
-# mainSection = "about"
-# mainSectionTitle = "Introducing"
-# showAllPostsOnHomePage = false
-# postsOnHomePage = 15
-# tagsOverview = true
-#   showProjectsList = false
-#   projectsUrl = "https://github.com/pham-anh"
-# css = ["syntax.css"]
-
-#   [[social]]
-#     name = "github"
-#     link = "https://github.com/pham-anh"
-
-#   [[social]]
-#     name = "email"
-#     link = "pqa.dev@gmail.com"
-
-#   [[social]]
-#     name = "twitter"
-#     link = "https://twitter.com/anhpham64"

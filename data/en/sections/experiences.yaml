@@ -3,7 +3,7 @@ section:
   name: Experiences
   id: experiences
   enable: true
-  weight: 3
+  weight: 5
   showOnNavbar: true
   # Can optionally hide the title in sections
   # hideTitle: true 
@@ -11,32 +11,58 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Example Co.
-    url: "https://www.example.com"
-    location: Dhaka Branch
+    name: X-TRANS, Inc.
+    url: "https://x-trans.jp/"
+    location: Osaka - Japan
     # company overview
     overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
   positions:
-  - designation: Senior Software Engineer
-    start: Nov 2019
+  - designation: Software Engineer
+    start: Feb 2018
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
+    - Design and develop new features of Monitoring Web Application
+    - Build E2E testing pipeline and implement test code
+    - Automate development process
+    - Perform manual test
 
 - company:
-    name: PreExample Co.
-    url: "https://www.preexample.com"
-    location: Nowhere
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+    name: Xtrans Vietnam
+    url: ""
+    location: Ho Chi Minh - Vietnam
+    overview: Xtrans Vietnam is a child company of X-TRANS, Inc.
   positions:
-  - designation: Software Engineer
-    start: March 2016
-    end: May 2017
+  - designation: IT communicator and developer
+    start: June 2016
+    end: Feb 2018
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
+    - Develop web system in PHP
+    - Perform manual test
+
+- company:
+    name: Xtrans Vietnam
+    url: ""
+    location: Ho Chi Minh - Vietnam
+    overview: Xtrans Vietnam is a child company of X-TRANS, Inc.
+  positions:
+  - designation: GA and IT communicator
+    start: Otc 2013
+    end: June 2016
+    responsibilities:
+    - Interpret daily discussion on software development from Japanese to Vietnamese
+    - Interpret month meeting
+    - Handle GA tasks
+
+- company:
+    name: Nidec Tosok Vietnam
+    url: "https://www.nidec.com/en/nidec-tosok/corporate/network/factory/tosok_vietnam_p/"
+    location: Ho Chi Minh - Vietnam
+    overview: Automobile Part Manufacture
+  positions:
+  - designation: Interpreter and translator
+    start: May 2011
+    end: July 2013
+    responsibilities:
+    - Interpret and translate between Japanese and Vietnamese 
