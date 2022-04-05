@@ -1,0 +1,17 @@
+# some information about you
+name: "Pham Quynh Anh"
+nickname: "Ann"
+# image: "images/avatar.png"
+
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Hi, I am"
+
+# give your contact information. they will be used in the footer
+contactInfo:
+  email: "janedoe@example.com"
+
+# a summary of what you do
+summary:
+- I am from Vietnam
+- I am working in Japan
+- I am a fan of automation

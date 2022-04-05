@@ -1,0 +1,4 @@
+enableBlogPost: false
+newsletter:
+  enable: false
+gitRepo: https://github.com/pham-anh/pqa-site

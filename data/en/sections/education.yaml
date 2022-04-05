@@ -1,0 +1,18 @@
+# section information
+section:
+  name: Education
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 6
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+degrees:
+- name: Bachelor of Japanese Study
+  icon: fa-graduation-cap
+  timeframe: 2007-2011
+  institution:
+    name: University of Social Sciences and Humanities (VNUHCM)
+    url: "https://hcmussh.edu.vn/en"
