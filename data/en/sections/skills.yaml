@@ -11,9 +11,18 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-
-- name: Go Development
+- name: Go
   logo: "/images/sections/skills/go.png"
-  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
+  summary: "Create CLI tools, write GCP cloud functions."
   url: "https://golang.org/"
+
+- name: PHP
+  logo: "/images/sections/skills/php.png"
+  summary: "Write backend process for web applications."
+  url: "https://www.php.net/"
+
+- name: Shell script
+  logo: "/images/sections/skills/bash.png"
+  summary: "Create scripts for automation process."
+  url: "https://www.php.net/"
   

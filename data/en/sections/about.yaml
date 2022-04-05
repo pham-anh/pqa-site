@@ -18,7 +18,10 @@ company:
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am a 5 year experienced developer with more than 10 years of working experience. I develop CLI tools and backend of Web applications using Go and PHP. I also build E2E testing on GCP. In my free time, I enjoy creating my iOS app with Flutter.'
+summary: |
+  I am a 5 year experienced developer with more than 10 years of working experience. I develop CLI tools and backend of Web applications using Go and PHP. I also build E2E testing on GCP. In my free time, I enjoy creating my iOS app with Flutter.
+  
+  Familiar with: VScode, git
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
