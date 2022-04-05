@@ -23,11 +23,20 @@ buttons:
 projects:
 - name: X-MON
   # logo: /images/sections/projects/kubernetes.png
-  role: Backend and test automation developer
+  role: Backend developer
   timeline: "Feb 2018 - Present"
   #repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
   url: "https://x-mon.jp/"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: A server and network monitoring tool based on [Nagios](https://www.nagios.org/).
+  tags: []
+
+- name: E2E test automation
+  # logo: /images/sections/projects/kubernetes.png
+  role: Developer
+  timeline: "Aug 2021 - Present"
+  #repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  #url: "https://x-mon.jp/"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Automate end-to-end testing using [Google Cloud Platform](https://cloud.google.com/gcp) infrastructure and [PlayWright](https://playwright.dev/) test framework.
   tags: []
 
 - name: Worth Money
@@ -36,5 +45,5 @@ projects:
   timeline: "Oct 2021 - Present"
   # repo: https://github.com/tensorflow/tensorflow
   #url: ""
-  summary: An iOS app for tracking daily expenses, including categorizing, prioritizing and compare spending between months.
+  summary: An iOS app using [Flutter](https://flutter.dev/development) and [Firebase](https://firebase.google.com/) for tracking daily expenses, including categorizing and prioritizing them.
   tags: []
