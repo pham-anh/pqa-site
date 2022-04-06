@@ -15,7 +15,7 @@ experiences:
     url: "https://x-trans.jp/"
     location: Osaka - Japan
     # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    overview: X-TRANS, Inc. is an IT managed service provider. The services include Cloud Management, Network and Server Management, Security Solution and System Development
   positions:
   - designation: Software Engineer
     start: Feb 2018
@@ -23,7 +23,7 @@ experiences:
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Design and develop new features of Monitoring Web Application
+    - Develop features of Monitoring Web Application
     - Build E2E testing pipeline and implement test code
     - Automate development process
     - Perform manual test
