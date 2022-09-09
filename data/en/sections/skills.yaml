@@ -13,16 +13,36 @@ section:
 skills:
 - name: Go
   logo: "/images/sections/skills/go.png"
-  summary: "Create CLI tools, write GCP cloud functions."
+  summary: |
+    Used the most at work. Create CLI tools, and utilities to support development. Implement cloud function with the go SDK of GCP. Love unit test with go.
   url: "https://golang.org/"
 
 - name: PHP
   logo: "/images/sections/skills/php.png"
-  summary: "Write backend process for web applications."
+  summary: |
+    Used the second at work. Implement web application feature, bug fix
   url: "https://www.php.net/"
 
 - name: Shell script
   logo: "/images/sections/skills/bash.png"
-  summary: "Create scripts for automation process."
-  url: "https://www.php.net/"
+  summary: |
+    Create scripts for automation process such as VM auto-deployment, test automation on GCP.
+
+- name: PlantUML
+  logo: "/images/sections/skills/plantuml.svg"
+  summary: |
+    Love using PlantUML for backend design and describing the behavior of the system.
+  url: "https://plantuml.com/"
+
+- name: NodeJS
+  logo: "/images/sections/skills/nodejs.svg"
+  summary: |
+    Beginning level. Used in implementing E2E test, API test with Node JS testing framework such as Playwright.
+  url: "https://nodejs.org/"
+
+- name: Dart
+  logo: "/images/sections/skills/dart.png"
+  summary: |
+    Beginning level. Used in my pet project which is an iOS application for daily spending tracking.
+  url: "https://dart.dev/"
   
