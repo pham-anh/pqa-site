@@ -2,6 +2,7 @@
 themes/*
 public/
 .firebase/
+resources/_gen
 
 # keep tracking the themes folder itself
 !themes/.gitkeep

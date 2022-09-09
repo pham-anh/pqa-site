@@ -2,7 +2,7 @@
 section:
   name: Achievements
   id: accomplishments
-  enable: true
+  enable: false
   weight: 4
   showOnNavbar: true
   # Can optionally hide the title in sections
@@ -11,6 +11,13 @@ section:
 
 # Your accomplishments
 accomplishments:
+- name: Professional Data Engineer
+  timeline: "Jun 2022"
+  organization:
+    name: Google Cloud
+    url: https://cloud.google.com/
+  certificateURL: "https://www.credential.net/b00bc3d3-1c85-42bf-b841-43f6440c69b6"
+
 - name: Professional Cloud Developer
   timeline: "Jan 2022"
   organization:

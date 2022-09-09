@@ -19,9 +19,17 @@ company:
 
 # a summary about you
 summary: |
-  I am a 5 year experienced developer with more than 10 years of working experience. I develop CLI tools and backend of Web applications using Go and PHP. I also build E2E testing on GCP. In my free time, I enjoy creating my iOS app with Flutter.
+  I am a 5 year experienced developer with more than 10 years of working experience. 
+  I develop CLI tools and backend of Web applications using Go and PHP. 
+  I also build E2E test automation leveraging Google Cloud Platform. 
+  In my free time, I enjoy creating my iOS app with Flutter.
   
-  Familiar with: VScode, git
+  Familiar with: VScode, git, go, Google Cloud Platform, unit test, integration test, E2E test.
+
+  Language proficiency:
+  * Vietnamese: natural
+  * Japanese: influent (N1)
+  * English: semi-influent (TOEIC 865).
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -43,6 +51,11 @@ socialLinks:
 # You can also show a circular bar indicating the level of expertise on a certain skill
 badges:
 - type: certification
+  name: Professional Data Engineer
+  url: "https://www.credential.net/b00bc3d3-1c85-42bf-b841-43f6440c69b6"
+  badge: "https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/53267789"
+
+- type: certification
   name: Professional Cloud Developer
   url: "https://www.credential.net/feaa91a8-95f6-44ac-aba4-2f0d13690e6b"
   badge: "https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/44607142"
@@ -52,7 +65,21 @@ badges:
   url: "https://www.credential.net/91806b08-9110-4819-b983-233204c8b6a8"
   badge: "https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/37001649"
 
-- type: certification
-  name: OMG CERTIFIED UML PROFESSIONAL 2 FOUNDATION LEVEL CERTIFICATION
-  url: "https://www.omg.org/cgi-bin/certdetails.cgi?file=686748-uml-ocup2-foundation.jpg"
-  badge: "http://www.omg.org/images/exampub/686748-uml-ocup2-foundation.jpg"
+# - type: certification
+#   name: OMG CERTIFIED UML PROFESSIONAL 2 FOUNDATION LEVEL CERTIFICATION
+#   url: "https://www.omg.org/cgi-bin/certdetails.cgi?file=686748-uml-ocup2-foundation.jpg"
+#   badge: "http://www.omg.org/images/exampub/686748-uml-ocup2-foundation.jpg"
+
+#  you can also provide color code instead of the color name
+- type: soft-skill-indicator
+  name: Vietnamese
+  percentage: 100
+  color: green
+- type: soft-skill-indicator
+  name: Japanese
+  percentage: 75
+  color: yellow
+- type: soft-skill-indicator
+  name: English
+  percentage: 50
+  color: blue
