@@ -37,7 +37,7 @@ skills:
 - name: NodeJS
   logo: "/images/sections/skills/nodejs.svg"
   summary: |
-    Beginning level. Used in implementing E2E test, API test with Node JS testing framework such as Playwright.
+    Beginning level. Used in implementing E2E test, API test with Playwright (a testing framework).
   url: "https://nodejs.org/"
 
 - name: Dart

@@ -19,17 +19,20 @@ company:
 
 # a summary about you
 summary: |
-  I am a 5 year experienced developer with more than 10 years of working experience. 
-  I develop CLI tools and backend of Web applications using Go and PHP. 
-  I also build E2E test automation leveraging Google Cloud Platform. 
-  In my free time, I enjoy creating my iOS app with Flutter.
+  I learnt Japanese in the university in Vietnam and started my career in 2011 as a Japanese interpreter
+  in the automobile industry, then in the IT industry. 
   
-  Familiar with: VScode, git, go, Google Cloud Platform, unit test, integration test, E2E test.
+  After that, I learnt IT and become as a software developer in 2016, then moved to Japan in 2018.
+
+  At work, I develop CLI tools with Go, and the backend of Web applications with PHP. 
+  I also build E2E test automation for the Web application using GCP. 
+
+  In the free time, I enjoy creating my iOS app with Flutter .
 
   Language proficiency:
-  * Vietnamese: natural
-  * Japanese: influent (N1)
-  * English: semi-influent (TOEIC 865).
+  * Vietnamese: native
+  * Japanese: N1 (2015 January)
+  * English: TOEIC 865 (2022 June)
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -50,11 +53,6 @@ socialLinks:
 # You can show your verifiable certificates from https://www.credly.com.
 # You can also show a circular bar indicating the level of expertise on a certain skill
 badges:
-- type: certification
-  name: Professional Data Engineer
-  url: "https://www.credential.net/b00bc3d3-1c85-42bf-b841-43f6440c69b6"
-  badge: "https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/53267789"
-
 - type: certification
   name: Professional Cloud Developer
   url: "https://www.credential.net/feaa91a8-95f6-44ac-aba4-2f0d13690e6b"

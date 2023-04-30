@@ -30,7 +30,9 @@ projects:
   summary: |
     A server and network monitoring tool based on [Nagios](https://www.nagios.org/).
 
-    In charge of the backend of the project including new features: design, implementation, testing; and bugfix for available features.
+    In charge of the backend of the project including:
+    * New features: design, implementation, testing
+    * Bugfix for available features.
   tags: []
 
 - name: E2E test automation
@@ -42,7 +44,13 @@ projects:
   summary: |
     Automate E2E testing for a web application using [Google Cloud Platform](https://cloud.google.com/gcp) infrastructure and [PlayWright](https://playwright.dev/) test framework (NodeJS).
 
-    In charge of the whole project, including Network architecture design and implementation, auto-deploy test environment with GCP (Deployment Manager, Cloud Function, VM startup scripts which is shell scripts), auto-run test periodically, report notification via chat webhook and VM deletion after the test is done.
+    In charge of the whole project, including:
+
+    * Network architecture design and implementation
+    * Auto-deploy test environment with GCP (Deployment Manager, Cloud Function, VM startup scripts)
+    * Auto-run test periodically
+    * Report notification via chat webhook
+    * VM deletion after the test is done.
      
   tags: []
 
@@ -51,12 +59,14 @@ projects:
   role: Owner (My pet project)
   timeline: "Oct 2021 - Present"
   # repo: https://github.com/tensorflow/tensorflow
-  #url: ""
+  url: "https://sites.google.com/view/worth-money/versions"
   summary: |  
-    An iOS app using [Flutter](https://flutter.dev/development)(Dart) and [Firebase](https://firebase.google.com/) for tracking daily expenses and income, including a dashboard to show statistics about the balance, spending by category and by priority. New features are added periodically.
-
-    Distributed via AppStore: v1.0 (unlisted app) and via TestFlight: v1.5. 
+    An iOS app using [Flutter](https://flutter.dev/development)(Dart) and [Firebase](https://firebase.google.com/) for tracking daily expenses and income, including:
+    * A dashboard to show statistics about the balance
+    * Spending by category and by priority
     
-    Current users: 3 (me and my friends)
+    New features are added periodically.
+
+    Distributed via AppStore: v1.0 (unlisted app) and via TestFlight: v1.8.
 
   tags: []
