@@ -1,0 +1,49 @@
+# section information
+section:
+  name: スキル
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Go
+  logo: "/images/sections/skills/go.png"
+  summary: |
+    仕事で一番利用する言語です。CLIツールや開発用ツールを実装します。
+    GCPのクラウドファンクションの開発でも利用します。私的にはGoでの開発はユニットテストが不可欠です。
+  url: "https://golang.org/"
+
+- name: PHP
+  logo: "/images/sections/skills/php.png"
+  summary: |
+    次に多く利用する言語です。Webアプリケーションの新規機能開発や不具合修正を行います。
+  url: "https://www.php.net/"
+
+- name: シェルスクリプト
+  logo: "/images/sections/skills/bash.png"
+  summary: |
+    自動化用スクリプトを作成します。例としてはGCPでVMをデプロイするスクリプトやテスト実行スクリプトです。
+
+- name: PlantUML
+  logo: "/images/sections/skills/plantuml.svg"
+  summary: |
+    バックエンドの設計や処理図を書くのに利用します。
+  url: "https://plantuml.com/"
+
+- name: NodeJS
+  logo: "/images/sections/skills/nodejs.svg"
+  summary: |
+    初級レベルです。Playwrightというテスト用フレームワークと一緒に利用します。
+  url: "https://nodejs.org/"
+
+- name: Dart
+  logo: "/images/sections/skills/dart.png"
+  summary: |
+    初級レベルです。ペットプロジェクトの「支出管理」アプリの開発に利用します。
+  url: "https://dart.dev/"
+  

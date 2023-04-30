@@ -6,3 +6,5 @@ resources/_gen
 
 # keep tracking the themes folder itself
 !themes/.gitkeep
+
+.hugo_build.lock

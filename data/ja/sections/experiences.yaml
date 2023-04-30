@@ -1,0 +1,67 @@
+# section information
+section:
+  name: 経歴
+  id: experiences
+  enable: true
+  weight: 5
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: 株式会社エクストランス
+    url: "https://x-trans.jp/"
+    location: 大阪府大阪市
+    # company overview
+    overview: 株式会社エクストランスはシステム運用管理・監視の会社です。 クラウドマネジメント、ネットワークとサーバのマネジメント、セキュリティソリューション、システム開発のサービスを提供します。
+  positions:
+  - designation: システム開発
+    start: 2018年
+    end: 現在
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - 監視用Webアプリケーションの開発・不具合修正
+    - テストコードの開発・テスト実行の自動化
+    - マニュアルテストの実施
+
+- company:
+    name: 有限会社エクスとタンスベトナム
+    url: ""
+    location: ベトナム・ホーチミン市
+    overview: 有限会社エクスとタンスベトナムは株式会社エクストランスの子会社でした。
+  positions:
+  - designation: IT通訳・Web開発
+    start: 2016年6月
+    end: 2018年2月
+    responsibilities:
+    - PHPでWeb開発
+    - マニュアルテストの実施
+
+- company:
+    name: 有限会社エクスとタンスベトナム
+    url: ""
+    location: ベトナム・ホーチミン市
+    overview: ""
+  positions:
+  - designation: 管理部の仕事・IT通訳
+    start: Otc 2013
+    end: June 2016
+    responsibilities:
+    - 日常の開発相談の通訳（日本語 ↔︎ ベトナム語）
+    - 管理部のタスク実施
+
+- company:
+    name: Nidec Tosok ベトナム
+    url: "https://www.nidec.com/en/nidec-tosok/corporate/network/factory/tosok_vietnam_p/"
+    location: ベトナム・ホーチミン市
+    overview: 自動車部品生産
+  positions:
+  - designation: 通訳・翻訳
+    start: 2011年5月
+    end: 2013年7月
+    responsibilities:
+    - 通訳・翻訳（日本語 ↔︎ ベトナム語）
