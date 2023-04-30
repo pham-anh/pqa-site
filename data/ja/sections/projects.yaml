@@ -47,8 +47,9 @@ projects:
 
     私は以下のことを担当します。
 
-    * ネットワーク構成の設計と実装￥
+    * ネットワーク構成の設計と実装
     * GCP上でテスト環境を自動デプロイする (Deployment Manager, Cloud Function, VMスタートアップスクリプト)
+    * テストコードの実装
     * 定期テスト自動実行（Cloud Scheduler）
     * テスト結果をChatへ通知
     * テスト完了後にVMの削除
