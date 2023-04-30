@@ -1,0 +1,73 @@
+# section information
+section:
+  name: プロジェクト
+  id: projects
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+buttons:
+# - name: All
+#   filter: "all"
+# - name: Professional
+#   filter: "professional"
+# - name: Academic
+#   filter: "academic"
+# - name: Hobby
+#   filter: "hobby"
+
+# your projects
+projects:
+- name: X-MON
+  # logo: /images/sections/projects/kubernetes.png
+  role: バクエンド開発
+  timeline: "2018年〜現在"
+  #repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  url: "https://x-mon.jp/"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: |
+    X-MON は [Nagios](https://www.nagios.org/) ベースでサーバやネットワーク機器の監視ツールです。
+
+    私は以下のことを担当します。
+    * 新機能の設計・実装・テスト
+    * 不具合修正
+  tags: []
+
+- name: E2E テスト自動化
+  # logo: /images/sections/projects/kubernetes.png
+  role: 設計・開発 (一人 プロジェクト)
+  timeline: "2021年8月〜現在"
+  #repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  #url: "https://x-mon.jp/"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: |
+    Webアプリケーション（X-MON） のUIテストです。テスト実装とテスト実行を自動化します。
+    GCPの各サービスと [PlayWright](https://playwright.dev/) のテスト用フレームワークを利用します。
+
+    私は以下のことを担当します。
+
+    * ネットワーク構成の設計と実装￥
+    * GCP上でテスト環境を自動デプロイする (Deployment Manager, Cloud Function, VMスタートアップスクリプト)
+    * 定期テスト自動実行（Cloud Scheduler）
+    * テスト結果をChatへ通知
+    * テスト完了後にVMの削除
+     
+  tags: []
+
+- name: Worth Money
+  # logo: /images/sections/projects/tensorflow.png
+  role: ペットプロジェクト
+  timeline: "2021年10月〜現在"
+  # repo: https://github.com/tensorflow/tensorflow
+  url: "https://sites.google.com/view/worth-money/versions"
+  summary: |  
+    [Flutter](https://flutter.dev/development)(Dart) と [Firebase](https://firebase.google.com/)で開発された支出管理アプリです。 
+    以下の機能があります。
+    * 収入と支出のバランス表示用ダッシュボード
+    * 支出や収入の入力
+    * 支出のカテゴリや優先度設定
+
+    AppStoreでv1.0を配布ずみ (unlisted app) 、TestFlightでv1.8配布済み
+
+  tags: []

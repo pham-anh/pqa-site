@@ -1,10 +1,10 @@
 # some information about you
-name: "Pham Quynh Anh"
-nickname: "Anh"
+name: "ファン・ウィン・アン"
+nickname: "アンです"
 # image: "images/avatar.png"
 
 # greeting message before your name. it will default to "Hi! I am" if not provided
-greeting: "Hi, I am"
+greeting: "はじめまして、"
 image: "images/author/avatar.jpeg"
 
 # give your contact information. they will be used in the footer
@@ -13,4 +13,5 @@ contactInfo:
 
 # a summary of what you do
 summary:
-- A fan of testing and automation
+- テストと自動化が好き
+- 朝4:30に起きる

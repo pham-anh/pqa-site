@@ -4,3 +4,13 @@ title: Pham Quynh Anh's Site
 theme: toha
 enableEmoji: true
 configDir: config/
+
+# Manage languages
+# For any more details, you can check the official documentation: https://gohugo.io/content-management/multilingual/
+languages:
+  en:
+    languageName: English
+    weight: 1
+  ja:
+    languageName: 日本語
+    weight: 2
