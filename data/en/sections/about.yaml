@@ -19,10 +19,10 @@ company:
 
 # a summary about you
 summary: |
-  I learnt Japanese in the university in Vietnam and started my career in 2011 as a Japanese interpreter
+  I learned Japanese in the university in Vietnam and started my career in 2011 as a Japanese interpreter
   in the automobile industry, then in the IT industry. 
   
-  After that, I learnt IT and become as a software developer in 2016, then moved to Japan in 2018.
+  After that, I learned IT and became a software developer in 2016, then moved to Japan in 2018.
 
   At work, I develop CLI tools with Go, and the backend of Web applications with PHP. 
   I also build E2E test automation for the Web application using GCP. 
@@ -33,6 +33,8 @@ summary: |
   * Vietnamese: native
   * Japanese: N1 (2015 January)
   * English: TOEIC 865 (2022 June)
+
+  My tech guider: https://www.pluralsight.com (since 2015)
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -45,28 +47,24 @@ socialLinks:
   icon: "fas fa-envelope"
   url: "pqa.dev@gmail.com"
 
-- name: Twitter
-  icon: "fab fa-twitter"
-  url: "https://twitter.com/anhpham64"
-
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.
 # You can also show a circular bar indicating the level of expertise on a certain skill
 badges:
+- type: certification
+  name: Professional Cloud Architect
+  url: "https://www.credential.net/91806b08-9110-4819-b983-233204c8b6a8"
+  badge: "https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/37001649"
+
 - type: certification
   name: Professional Cloud Developer
   url: "https://www.credential.net/feaa91a8-95f6-44ac-aba4-2f0d13690e6b"
   badge: "https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/44607142"
 
 - type: certification
-  name: Professional Cloud Architect
-  url: "https://www.credential.net/91806b08-9110-4819-b983-233204c8b6a8"
-  badge: "https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/37001649"
-
-# - type: certification
-#   name: OMG CERTIFIED UML PROFESSIONAL 2 FOUNDATION LEVEL CERTIFICATION
-#   url: "https://www.omg.org/cgi-bin/certdetails.cgi?file=686748-uml-ocup2-foundation.jpg"
-#   badge: "http://www.omg.org/images/exampub/686748-uml-ocup2-foundation.jpg"
+  name: OSS-DB Silver Certified Engineer
+  url: "https://ma.educo-j.or.jp/d/EID900033563/m668bbh6cm"
+  badge: "https://ferret-one.akamaized.net/files/5c6236bef875dd19a200047e/OSS-NIN-S.jpg?utime=1549940414"
 
 #  you can also provide color code instead of the color name
 - type: soft-skill-indicator
