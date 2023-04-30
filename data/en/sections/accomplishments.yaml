@@ -2,7 +2,7 @@
 section:
   name: Achievements
   id: accomplishments
-  enable: false
+  enable: true
   weight: 4
   showOnNavbar: true
   # Can optionally hide the title in sections
@@ -11,6 +11,12 @@ section:
 
 # Your accomplishments
 accomplishments:
+- name: OSS-DB Silver
+  timeline: "Oct 2022"
+  organization:
+    name: LPI-Japan
+    url: https://lpi.or.jp
+  certificateURL: "https://ma.educo-j.or.jp/d/EID900033563/m668bbh6cm"
 - name: Professional Data Engineer
   timeline: "Jun 2022"
   organization:
