@@ -51,9 +51,8 @@ socialLinks:
 # You can also show a circular bar indicating the level of expertise on a certain skill
 badges:
 - type: certification
-  name: Professional Cloud Architect
-  url: "https://www.credential.net/91806b08-9110-4819-b983-233204c8b6a8"
-  badge: "https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/37001649"
+  name: PHP8技術者認定準上級試験　認定者
+  badge: "../files/phpexam.png"
 
 - type: certification
   name: Professional Cloud Developer
@@ -63,7 +62,7 @@ badges:
 - type: certification
   name: OSS-DB Silver Certified Engineer
   url: "https://ma.educo-j.or.jp/d/EID900033563/m668bbh6cm"
-  badge: "https://ferret-one.akamaized.net/files/5c6236bef875dd19a200047e/OSS-NIN-S.jpg?utime=1549940414"
+  badge: "../files/OSS-NIN-S.avif"
 
 #  you can also provide color code instead of the color name
 - type: soft-skill-indicator
