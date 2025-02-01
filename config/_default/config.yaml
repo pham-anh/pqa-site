@@ -7,10 +7,10 @@ configDir: config/
 
 # Manage languages
 # For any more details, you can check the official documentation: https://gohugo.io/content-management/multilingual/
-languages:
-  en:
-    languageName: English
-    weight: 1
-  ja:
-    languageName: 日本語
-    weight: 2
+# languages:
+#   en:
+#     languageName: English
+#     weight: 1
+#   ja:
+#     languageName: 日本語
+#     weight: 2
