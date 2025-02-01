@@ -14,3 +14,20 @@ configDir: config/
 #   ja:
 #     languageName: 日本語
 #     weight: 2
+
+
+
+# Control TOC depth
+markup:
+  tableOfContents:
+    startLevel: 2
+    endLevel: 6
+    ordered: false
+
+# At least HTML and JSON are required for the main HTML content and
+# client-side JavaScript search
+outputs:
+  home:
+  - HTML
+  - RSS
+  - JSON
