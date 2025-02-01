@@ -4,11 +4,11 @@ section:
   id: about
   enable: true
   weight: 1
-  showOnNavbar: true
+  showOnNavbar: false
   template: sections/about.html
 
 # your designation
-designation: Software Engineer
+designation: Web Developer
 # your company information
 company:
   name: X-TRANS, Inc.
@@ -19,22 +19,13 @@ company:
 
 # a summary about you
 summary: |
-  I learned Japanese in the university in Vietnam and started my career in 2011 as a Japanese interpreter
-  in the automobile industry, then in the IT industry. 
-  
-  After that, I learned IT and became a Web developer in 2016, then moved to Japan in 2018.
+  I studied Japanese at the university in Vietnam and started my career in 2011 as a Japanese interpreter in the automobile industry, then in the IT industry. After that, I studied IT and have become a Web developer since 2016.
 
-  At work, I develop CLI tools with Go, and the backend of Web applications with PHP. 
-  I also build E2E test automation for the Web application using GCP.
+  At work, I develop CLI tools and HTTP applications with Go and PHP.
+  I also build E2E test automation system for the Web application using on GCP.
 
-  In the free time, I enjoy creating my iOS app with Flutter.
-
-  Language proficiency:
-  * Vietnamese: native
-  * Japanese: N1 (2015 January)
-  * English: TOEIC 865 (2022 June)
-
-  My tech guider: https://app.pluralsight.com/profile/pqa-dev
+  My everyday usually starts around 4:00 AM. This is a habit I have been trying to keep since 2020. 
+  As a self-learning developer, I am using [Pluralsight](https://app.pluralsight.com/profile/pqa-dev) to learn new skills as well as to update my knowledge.
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -52,18 +43,24 @@ socialLinks:
 # You can also show a circular bar indicating the level of expertise on a certain skill
 badges:
 - type: certification
-  name: PHP8技術者認定準上級試験　認定者
-  badge: "files/phpexam.png"
+  name: Professional Cloud DevOps Engineer
+  url: "https://www.credly.com/badges/f0e13206-8910-477f-97d6-f65d498141d3/public_url"
+  badge: "files/gcp-devops.png"
 
 - type: certification
   name: Professional Cloud Developer
   url: "https://www.credential.net/feaa91a8-95f6-44ac-aba4-2f0d13690e6b"
-  badge: "https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/44607142"
+  badge: "files/gcp-developer.png"
 
 - type: certification
-  name: OSS-DB Silver Certified Engineer
-  url: "https://ma.educo-j.or.jp/d/EID900033563/m668bbh6cm"
-  badge: "files/OSS-NIN-S.avif"
+  name: Professional Cloud Architect
+  url: "https://www.credly.com/badges/f0e13206-8910-477f-97d6-f65d498141d3/public_url"
+  badge: "files/gcp-architect.png"
+
+# - type: certification
+#   name: OSS-DB Silver Certified Engineer
+#   url: "https://ma.educo-j.or.jp/d/EID900033563/m668bbh6cm"
+#   badge: "files/OSS-NIN-S.avif"
 
 #  you can also provide color code instead of the color name
 - type: soft-skill-indicator

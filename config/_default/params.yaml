@@ -1,7 +1,8 @@
-enableBlogPost: false
+enableBlogPost: true
+enableToc: true
 newsletter:
   enable: false
-gitRepo: https://github.com/pham-anh/pqa-site
+# gitRepo: https://github.com/pham-anh/pqa-site
 
 logo:
 #   main: images/avatar.jpeg

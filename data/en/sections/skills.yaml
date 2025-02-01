@@ -4,7 +4,7 @@ section:
   id: skills
   enable: true
   weight: 2
-  showOnNavbar: true
+  showOnNavbar: false
   # Can optionally hide the title in sections
   # hideTitle: true
 
@@ -14,35 +14,34 @@ skills:
 - name: Go
   logo: "/images/sections/skills/go.png"
   summary: |
-    Used the most at work. Create CLI tools, and utilities to support development. Implement cloud function with the go SDK of GCP. Love unit test with go.
+    Create well-tested CLI applications, HTTP servers.
   url: "https://golang.org/"
 
 - name: PHP
   logo: "/images/sections/skills/php.png"
   summary: |
-    Used the second at work. Implement web application feature, bug fix
+    Implement web-based server monitoring application and EC site.
   url: "https://www.php.net/"
 
-- name: Shell script
+- name: Linux & Shell script
   logo: "/images/sections/skills/bash.png"
   summary: |
-    Create scripts for automation process such as VM auto-deployment, test automation on GCP.
+    Create scripts for automation processes on Linux.
 
-- name: PlantUML
-  logo: "/images/sections/skills/plantuml.svg"
+- name: Docker
+  logo: "/images/sections/skills/docker.png"
   summary: |
-    Love using PlantUML for backend design and describing the behavior of the system.
-  url: "https://plantuml.com/"
+    Containerize web application to deploy in Cloud Run, create development environment.
 
-- name: NodeJS
-  logo: "/images/sections/skills/nodejs.svg"
+- name: Cloud Computing
+  logo: "/images/sections/skills/cloud.png"
   summary: |
-    Beginning level. Used in implementing E2E test, API test with Playwright (a testing framework).
-  url: "https://nodejs.org/"
+    Experiences in GCP services such as Cloud Run, Cloud Run Functions, Cloud Build, BigQuery...
 
-- name: Dart
-  logo: "/images/sections/skills/dart.png"
+- name: Languages
+  logo: 
   summary: |
-    Beginning level. Used in my pet project which is an iOS application for daily spending tracking.
-  url: "https://dart.dev/"
-  
+    * Vietnamese: native.
+    * Japanese: N1 (2015 January). 
+    * English: TOEIC 865 (2022 June)
+

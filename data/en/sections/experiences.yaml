@@ -4,7 +4,7 @@ section:
   id: experiences
   enable: true
   weight: 5
-  showOnNavbar: true
+  showOnNavbar: false
   # Can optionally hide the title in sections
   # hideTitle: true 
 
@@ -23,46 +23,46 @@ experiences:
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Develop features of Monitoring Web Application
-    - Build E2E testing pipeline and implement test code
-    - Automate development process
-    - Perform manual test
+    # - Develop features of Monitoring Web Application
+    # - Build E2E testing pipeline and implement test code
+    # - Automate development process
+    # - Perform manual test
 
 - company:
     name: Xtrans Vietnam
     url: ""
     location: Ho Chi Minh - Vietnam
-    overview: Xtrans Vietnam is a child company of X-TRANS, Inc.
+    overview: Xtrans Vietnam is a company in X-TRANS group located in Vietnam.
   positions:
-  - designation: IT communicator and developer
+  - designation: IT communicator, Developer and Project manager
     start: June 2016
     end: Feb 2018
-    responsibilities:
-    - Develop web system in PHP
-    - Perform manual test
+    # responsibilities:t
+    # - Develop web system in PHP
+    # - Perform manual tes
 
 - company:
     name: Xtrans Vietnam
     url: ""
     location: Ho Chi Minh - Vietnam
-    overview: Xtrans Vietnam is a child company of X-TRANS, Inc.
+    # overview: Xtrans Vietnam is a child company of X-TRANS, Inc.
   positions:
   - designation: GA and IT communicator
     start: Otc 2013
     end: June 2016
-    responsibilities:
-    - Interpret daily discussion on software development from Japanese to Vietnamese
-    - Interpret month meeting
-    - Handle GA tasks
+    # responsibilities:
+    # - Interpret daily discussion on software development from Japanese to Vietnamese
+    # - Interpret month meeting
+    # - Handle GA tasks
 
 - company:
     name: Nidec Tosok Vietnam
     url: "https://www.nidec.com/en/nidec-tosok/corporate/network/factory/tosok_vietnam_p/"
     location: Ho Chi Minh - Vietnam
-    overview: Automobile Part Manufacture
+    overview: Automobile Parts Manufacturing company which has factory in Vietnam and head quarter in Japan.
   positions:
-  - designation: Interpreter and translator
+  - designation: Japanese and Vietnamese Interpreter
     start: May 2011
     end: July 2013
-    responsibilities:
-    - Interpret and translate between Japanese and Vietnamese 
+    # responsibilities:
+    # - Interpret and translate between Japanese and Vietnamese 
