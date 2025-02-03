@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-22.04
     steps:
       - uses: actions/checkout@v3
-      - run: 'sudo apt install hugo@v0.111.3'
+      - run: 'sudo apt install hugo'
       - run: 'git clone --branch v3.8.0 https://github.com/hugo-toha/toha.git themes/toha'
       - run: 'hugo mod get -u'
       - run: 'hugo -D'
