@@ -9,10 +9,10 @@ name: Deploy to Firebase Hosting on merge
 
 jobs:
   build_and_deploy_on_merge:
-    runs-on: ubuntu-22.04
+    runs-on: macos-latest
     steps:
       - uses: actions/checkout@v3
-      - run: 'sudo apt install hugo'
+      - run: 'brew install hugo'
       - run: 'git clone --branch v3.8.0 https://github.com/hugo-toha/toha.git themes/toha'
       - run: 'hugo mod get -u'
       - run: 'hugo -D'
