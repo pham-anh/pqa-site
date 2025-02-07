@@ -13,7 +13,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - run: 'brew install go'
-      - run: 'go install hugo@v0.111.3'
+      - run: 'go install github.com/gohugoio/hugo@v0.111.3'
       - run: 'git clone --branch v3.8.0 https://github.com/hugo-toha/toha.git themes/toha'
       - run: 'hugo mod get -u'
       - run: 'hugo -D'
