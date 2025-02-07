@@ -11,9 +11,8 @@ jobs:
   build_and_deploy_on_merge:
     runs-on: macos-latest
     steps:
-      - uses: actions/checkout@v3
-      - run: 'brew install go'
-      - run: 'go install github.com/gohugoio/hugo@v0.111.3'
+      - uses: actions/checkout@v4
+      - run: 'brew install hugo'
       - run: 'git clone --branch v3.8.0 https://github.com/hugo-toha/toha.git themes/toha'
       - run: 'hugo mod get -u'
       - run: 'hugo -D'
