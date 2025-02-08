@@ -26,7 +26,8 @@ jobs:
           hugo mod tidy
           hugo mod npm pack
           npm install
-          hugo -D 
+          hugo -D
+          ls -la public
       - name: Upload public dir
         uses: actions/upload-artifact@v4
         with:
@@ -38,6 +39,7 @@ jobs:
     runs-on: ubuntu-latest
     if: github.ref == 'refs/heads/main'
     steps:
+      - uses: actions/checkout@v4
       - uses: actions/download-artifact@v4
         with:
             name: public
