@@ -34,7 +34,7 @@ projects:
 - name: E2E test automation
   # logo: /images/sections/projects/kubernetes.png
   role: Full-stack developer
-  timeline: "Aug 2021 - Present"
+  timeline: "Aug 2021 - Jun 2022"
   summary: |
     Automate E2E testing for web application using [Google Cloud Platform](https://cloud.google.com/gcp) infrastructure and NodeJS test framework called [PlayWright](https://playwright.dev/).
      
