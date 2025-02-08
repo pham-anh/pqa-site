@@ -1,12 +1,4 @@
-enableBlogPost: true
-enableToc: false
-newsletter:
-  enable: false
 # gitRepo: https://github.com/pham-anh/pqa-site
 
-logo:
-#   main: images/avatar.jpeg
-  # inverted: images/author/avatar.jpeg
-  favicon: images/favicon.png
 
-background: images/background.jpeg
+
