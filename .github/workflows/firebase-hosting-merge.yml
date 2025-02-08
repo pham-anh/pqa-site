@@ -16,8 +16,8 @@ jobs:
           go-version: '1.23' # Use the desired Go version
       - name: Install Hugo
         run: |
-          apt update -y
-          apt install hugo
+          sudo apt update -y
+          sudo apt install hugo
       - name: Install Node.js and npm
         uses: actions/setup-node@v3
         with:
