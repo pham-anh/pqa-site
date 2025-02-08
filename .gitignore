@@ -8,3 +8,5 @@ resources/_gen
 !themes/.gitkeep
 
 .hugo_build.lock
+
+node_modules
