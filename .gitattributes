@@ -1,0 +1,1 @@
+*.png,[[:space:]]*.svg,[[:space:]]*.jpeg,[[:space:]]*.avif filter=lfs diff=lfs merge=lfs -text
