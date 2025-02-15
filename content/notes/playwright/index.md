@@ -8,6 +8,10 @@ menu:
     # Pluralsight Course: Playwright in Node.js Fundamentals
 ---
 
+{{< note title="Info" >}}
+Pluralsight Course: Playwright in Node.js Fundamentals
+{{< /note >}}
+
 {{< note title="Page locator" >}}
 
 [https://playwright.dev/docs/locators](https://playwright.dev/docs/locators)
