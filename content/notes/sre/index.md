@@ -4,10 +4,12 @@ menu:
   notes:
     name: SRE
     identifier: notes-sre
-    weight: 300
+    weight: 150
 ---
 
 {{< note title="SRE key notes" >}}
+
+# SRE key notes
 
 - Change is best when small and frequent.
 - Design thinking methodology has five phases: empathize, define, ideate, prototype, and test.
