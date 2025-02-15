@@ -67,7 +67,7 @@ Use the strangler pattern to re-architecture applications
 
 - Incrementally replace components of the old application with the new services
 
-![](./attachments/image-20221224-114214.png)
+![](../attachments/image-20221224-114214.png)
 
 {{< /note >}}
 
@@ -100,21 +100,21 @@ Emulators for Google Cloud services
 
 {{< note title="Storage overview" >}}
 
-![](./attachments/image-20221224-215347.png)
+![](../attachments/image-20221224-215347.png)
 
-![](./attachments/image-20221225-062357.png)
+![](../attachments/image-20221225-062357.png)
 
-![](./attachments/image-20221225-062804.png)
+![](../attachments/image-20221225-062804.png)
 
 {{< /note >}}
 
-{{< note title="Storage overview > Cloud Storage" >}}
+{{< note title="Cloud Storage" >}}
 
 - Storing images and videos (e.g. user upload), object and blobs, unstructured data
 - Can GET data via HTTP with the key is the object name
 {{< /note >}}
 
-{{< note title="Storage overview > Firestore" >}}
+{{< note title="Firestore" >}}
 
 #### Native mode
 
@@ -128,7 +128,7 @@ Emulators for Google Cloud services
 
 {{< /note >}}
 
-{{< note title="Storage overview > Cloud Bigtable" >}}
+{{< note title="Cloud Bigtable" >}}
 
 - High performance wide column NoSQL database service
 - Sparsely populate table
@@ -150,7 +150,7 @@ Support HBase API
 
 {{< /note >}}
 
-{{< note title="Storage overview > Cloud SQL" >}}
+{{< note title="Cloud SQL" >}}
 
 - Managed service (replication, failover, backups)
 - MySQL, PostgreSQL, SQL Server
@@ -170,7 +170,7 @@ Ideal for
 
 {{< /note >}}
 
-{{< note title="Storage overview > Cloud Spanner" >}}
+{{< note title="Cloud Spanner" >}}
 
 - Mission-critical relational database
 - Transaction consistency
@@ -193,7 +193,7 @@ Diff from Cloud SQL
 
 {{< /note >}}
 
-{{< note title="Storage overview > BigQuery" >}}
+{{< note title="BigQuery" >}}
 
 - Data warehouse for analytics
 - Fully-managed
@@ -209,14 +209,14 @@ Ideal for
 
 {{< /note >}}
 
-{{< note title="Storage overview > MSSQL" >}}
+{{< note title="MSSQL" >}}
 
 - Can use Compute Engine with MSQQL image preload (SQL server standard, web, enterprise)
 - Not a managed service like Cloud SQL or Spanner
 
 {{< /note >}}
 
-{{< note title="Storage overview > Storage for mobile" >}}
+{{< note title="Storage for mobile" >}}
 
 - Cloud storage for Firebase
 - Firebase
@@ -224,7 +224,7 @@ Ideal for
 
 {{< /note >}}
 
-{{< note title="Storage overview > Memorystore" >}}
+{{< note title="Memorystore" >}}
 
 - Cache application data (backend?)
 - For Redis and Memcached caching engines
