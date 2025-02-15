@@ -4,7 +4,7 @@ menu:
   notes:
     name: Files
     identifier: files
-    weight: 10
+    weight: 100
 ---
 
 <!-- Variable -->

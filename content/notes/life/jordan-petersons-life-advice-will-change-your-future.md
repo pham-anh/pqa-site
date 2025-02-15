@@ -4,7 +4,7 @@ menu:
   notes:
     name: Jordan Peterson's Life Advice Will Change Your Future
     identifier: life
-    weight: 40
+    weight: 900
 ---
 
 {{< note title="Info" >}}

@@ -4,7 +4,7 @@ menu:
   notes:
     name: SRE
     identifier: notes-sre
-    weight: 20
+    weight: 300
 ---
 
 {{< note title="SRE key notes" >}}

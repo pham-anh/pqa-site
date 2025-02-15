@@ -4,7 +4,7 @@ menu:
   notes:
     name: Playwright
     identifier: notes-pw
-    weight: 30
+    weight: 800
     # Pluralsight Course: Playwright in Node.js Fundamentals
 ---
 

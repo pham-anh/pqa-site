@@ -4,7 +4,7 @@ menu:
   notes:
     name: GCP Application Development
     identifier: gcp
-    weight: 401
+    weight: 200
 ---
 
 {{< note title="Best practice for application development" >}}
@@ -67,7 +67,7 @@ Use the strangler pattern to re-architecture applications
 
 - Incrementally replace components of the old application with the new services
 
-![](../attachments/image-20221224-114214.png)
+![](./attachments/image-20221224-114214.png)
 
 {{< /note >}}
 
@@ -100,11 +100,11 @@ Emulators for Google Cloud services
 
 {{< note title="Storage overview" >}}
 
-![](../attachments/image-20221224-215347.png)
+![](./attachments/image-20221224-215347.png)
 
-![](../attachments/image-20221225-062357.png)
+![](./attachments/image-20221225-062357.png)
 
-![](../attachments/image-20221225-062804.png)
+![](./attachments/image-20221225-062804.png)
 
 {{< /note >}}
 
