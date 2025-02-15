@@ -1,3 +1,4 @@
+# https://github.com/hugo-toha/hugo-toha.github.io/blob/main/hugo.yaml
 baseURL: http://localhost
 languageCode: en-us
 title: Pham Quynh Anh's Site
@@ -40,9 +41,13 @@ params:
       showAuthor: false
     toc:
       enable: false
+    note:
+      enable: true
+
   footer:
     newsletter:
       enable: false
+    notes:
 
 markup:
   goldmark:
