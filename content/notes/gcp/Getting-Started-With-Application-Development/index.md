@@ -1,11 +1,14 @@
 ---
-title: GCP Application Development
+title: Getting Started With Application Development
 menu:
   notes:
-    name: GCP Application Development
-    identifier: gcp
-    weight: 200
+    name: Getting Started With Application Development
+    identifier: Getting-Started-With-Application-Development
+    parent: notes-gcp
+    weight: 201
 ---
+
+# Getting Started With Application Development
 
 {{< note title="Best practice for application development" >}}
 
