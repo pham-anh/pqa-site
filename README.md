@@ -54,3 +54,12 @@ See also: https://gohugo.io/hosting-and-deployment/hugo-deploy/
 ## Host the site on Firebase
 
 https://gohugo.io/hosting-and-deployment/hosting-on-firebase/
+
+
+## Moved toha to hugo module in 2025
+
+From now, to update toha to the latest version, run the following to update `go.mod`
+
+```
+hugo mod get github.com/hugo-toha/toha/v4
+```
