@@ -37,12 +37,12 @@ params:
     favicon: images/favicon.png
   features:
     blog:
-      enable: true
+      enable: false
       showAuthor: false
     toc:
       enable: false
     note:
-      enable: true
+      enable: false
 
   footer:
     newsletter:
