@@ -12,6 +12,13 @@ section:
 # Your accomplishments
 accomplishments:
 
+- name: "CKAD: Certified Kubernetes Application Developer"
+  timeline: "October 2025"
+  organization:
+    name: The Linux Foundation
+    url: https://training.linuxfoundation.org/
+  certificateURL: "https://www.credly.com/badges/2879bf0a-3d88-4ad2-86e0-ecfb484f96fa/public_url"
+
 - name: Professional Cloud DevOps Engineer
   timeline: "March 2024"
   organization:
